@@ -1,0 +1,91 @@
+[
+  {
+    "servidor": {
+      "id": 309584232,
+      "idServidorAposentadoPensionista": 2916660,
+      "pessoa": {
+        "id": 1003808,
+        "cpfFormatado": "***.857.027-**",
+        "cnpjFormatado": "",
+        "numeroInscricaoSocial": "",
+        "nome": "WILLIAM PIMENTEL BERK DE QUEIROZ",
+        "razaoSocialReceita": "",
+        "nomeFantasiaReceita": "",
+        "tipo": "Pessoa F\u00edsica"
+      },
+      "situacao": "Ativo",
+      "orgaoServidorLotacao": {
+        "codigo": "45205",
+        "nome": "Funda\u00e7\u00e3o Instituto Brasileiro de Geografia e Estat\u00edstica",
+        "sigla": "IBGE",
+        "codigoOrgaoVinculado": "17300",
+        "nomeOrgaoVinculado": "MINISTERIO DO PLANEJAMENTO E ORCAMENTO"
+      },
+      "orgaoServidorExercicio": {
+        "codigo": "45205",
+        "nome": "Funda\u00e7\u00e3o Instituto Brasileiro de Geografia e Estat\u00edstica",
+        "sigla": "IBGE",
+        "codigoOrgaoVinculado": "17300",
+        "nomeOrgaoVinculado": "MINISTERIO DO PLANEJAMENTO E ORCAMENTO"
+      },
+      "estadoExercicio": {
+        "sigla": "RJ",
+        "nome": "RIO DE JANEIRO"
+      },
+      "tipoServidor": "Civil",
+      "funcao": {
+        "codigoFuncaoCargo": "-1",
+        "descricaoFuncaoCargo": "Sem informa\u00e7\u00e3o"
+      },
+      "servidorInativoInstuidorPensao": {
+        "id": -2,
+        "cpfFormatado": "-2",
+        "nome": "N\u00e3o se aplica"
+      },
+      "pensionistaRepresentante": {
+        "id": -2,
+        "cpfFormatado": "-2",
+        "nome": "N\u00e3o se aplica"
+      },
+      "codigoMatriculaFormatado": "114****",
+      "flagAfastado": 0
+    },
+    "fichasCargoEfetivo": [
+      {
+        "nome": "WILLIAM PIMENTEL BERK DE QUEIROZ",
+        "cpfDescaracterizado": "***.857.027-**",
+        "matriculaDescaracterizada": "114****",
+        "dataPublicacaoDocumentoIngressoServicoPublico": "10/05/2017",
+        "diplomaLegal": "PORTARIA",
+        "jornadaTrabalho": "40 HORAS SEMANAIS",
+        "regimeJuridico": "REGIME JURIDICO UNICO",
+        "situacaoServidor": "ATIVO PERMANENTE",
+        "afastamentos": [],
+        "orgaoSuperiorLotacao": "Minist\u00e9rio do Planejamento e Or\u00e7amento",
+        "orgaoLotacao": "Funda\u00e7\u00e3o Instituto Brasileiro de Geografia e Estat\u00edstica",
+        "uorgLotacao": "ESCOLA NACIONAL DE CIENCIAS ESTATISTICAS",
+        "orgaoServidorLotacao": "Funda\u00e7\u00e3o Instituto Brasileiro de Geografia e Estat\u00edstica",
+        "dataIngressoOrgao": "28/12/2015",
+        "dataIngressoServicoPublico": "10/05/2017",
+        "orgaoSuperiorExercicio": "Minist\u00e9rio do Planejamento e Or\u00e7amento",
+        "orgaoExercicio": "Funda\u00e7\u00e3o Instituto Brasileiro de Geografia e Estat\u00edstica",
+        "orgaoServidorExercicio": "Funda\u00e7\u00e3o Instituto Brasileiro de Geografia e Estat\u00edstica",
+        "uorgExercicio": "ESCOLA NACIONAL DE CIENCIAS ESTATISTICAS",
+        "cargo": "ANALISTA PLAN GEST INF INFOR GEOG ESTATI",
+        "classeCargo": "B",
+        "padraoCargo": "III",
+        "nivelCargo": "",
+        "dataIngressoCargo": "10/05/2017",
+        "formaIngresso": "NOMEACAO CARATER EFETIVO,ART.9,ITEM I ,LEI 8112/90",
+        "ufExercicio": "RIO DE JANEIRO"
+      }
+    ],
+    "fichasFuncao": [],
+    "fichasMilitar": [],
+    "fichasDemaisSituacoes": [],
+    "fichasAposentadoria": [],
+    "fichasReformado": [],
+    "fichasPensaoCivil": [],
+    "fichasPensaoMilitar": []
+  }
+]

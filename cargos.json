@@ -1,0 +1,1530 @@
+[
+  {
+    "codigoFuncaoCargo": "CA0001",
+    "descricaoFuncaoCargo": "CA 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "CA0002",
+    "descricaoFuncaoCargo": "CA 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "CA0003",
+    "descricaoFuncaoCargo": "CA 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "CAS0001",
+    "descricaoFuncaoCargo": "CAS 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "CAS0002",
+    "descricaoFuncaoCargo": "CAS 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "CCD0001",
+    "descricaoFuncaoCargo": "CCD 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "CCD0002",
+    "descricaoFuncaoCargo": "CCD 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "CCT0001",
+    "descricaoFuncaoCargo": "CCT 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "CCT0002",
+    "descricaoFuncaoCargo": "CCT 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "CCT0003",
+    "descricaoFuncaoCargo": "CCT 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "CCT0004",
+    "descricaoFuncaoCargo": "CCT 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "CCT0005",
+    "descricaoFuncaoCargo": "CCT 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0101",
+    "descricaoFuncaoCargo": "CCX 010.1"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0102",
+    "descricaoFuncaoCargo": "CCX 010.2"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0103",
+    "descricaoFuncaoCargo": "CCX 010.3"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0104",
+    "descricaoFuncaoCargo": "CCX 010.4"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0105",
+    "descricaoFuncaoCargo": "CCX 010.5"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0106",
+    "descricaoFuncaoCargo": "CCX 010.6"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0107",
+    "descricaoFuncaoCargo": "CCX 010.7"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0108",
+    "descricaoFuncaoCargo": "CCX 010.8"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0109",
+    "descricaoFuncaoCargo": "CCX 010.9"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0110",
+    "descricaoFuncaoCargo": "CCX 011.0"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0111",
+    "descricaoFuncaoCargo": "CCX 011.1"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0112",
+    "descricaoFuncaoCargo": "CCX 011.2"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0113",
+    "descricaoFuncaoCargo": "CCX 011.3"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0114",
+    "descricaoFuncaoCargo": "CCX 011.4"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0115",
+    "descricaoFuncaoCargo": "CCX 011.5"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0116",
+    "descricaoFuncaoCargo": "CCX 011.6"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0117",
+    "descricaoFuncaoCargo": "CCX 011.7"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0118",
+    "descricaoFuncaoCargo": "CCX 011.8"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0201",
+    "descricaoFuncaoCargo": "CCX 020.1"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0202",
+    "descricaoFuncaoCargo": "CCX 020.2"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0203",
+    "descricaoFuncaoCargo": "CCX 020.3"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0204",
+    "descricaoFuncaoCargo": "CCX 020.4"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0205",
+    "descricaoFuncaoCargo": "CCX 020.5"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0206",
+    "descricaoFuncaoCargo": "CCX 020.6"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0207",
+    "descricaoFuncaoCargo": "CCX 020.7"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0208",
+    "descricaoFuncaoCargo": "CCX 020.8"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0209",
+    "descricaoFuncaoCargo": "CCX 020.9"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0210",
+    "descricaoFuncaoCargo": "CCX 021.0"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0211",
+    "descricaoFuncaoCargo": "CCX 021.1"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0212",
+    "descricaoFuncaoCargo": "CCX 021.2"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0213",
+    "descricaoFuncaoCargo": "CCX 021.3"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0214",
+    "descricaoFuncaoCargo": "CCX 021.4"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0215",
+    "descricaoFuncaoCargo": "CCX 021.5"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0216",
+    "descricaoFuncaoCargo": "CCX 021.6"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0217",
+    "descricaoFuncaoCargo": "CCX 021.7"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0305",
+    "descricaoFuncaoCargo": "CCX 030.5"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0306",
+    "descricaoFuncaoCargo": "CCX 030.6"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0307",
+    "descricaoFuncaoCargo": "CCX 030.7"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0308",
+    "descricaoFuncaoCargo": "CCX 030.8"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0309",
+    "descricaoFuncaoCargo": "CCX 030.9"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0310",
+    "descricaoFuncaoCargo": "CCX 031.0"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0311",
+    "descricaoFuncaoCargo": "CCX 031.1"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0312",
+    "descricaoFuncaoCargo": "CCX 031.2"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0313",
+    "descricaoFuncaoCargo": "CCX 031.3"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0314",
+    "descricaoFuncaoCargo": "CCX 031.4"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0315",
+    "descricaoFuncaoCargo": "CCX 031.5"
+  },
+  {
+    "codigoFuncaoCargo": "CCX0316",
+    "descricaoFuncaoCargo": "CCX 031.6"
+  },
+  {
+    "codigoFuncaoCargo": "CD0001",
+    "descricaoFuncaoCargo": "CD 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "CD0002",
+    "descricaoFuncaoCargo": "CD 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "CD0003",
+    "descricaoFuncaoCargo": "CD 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "CD0004",
+    "descricaoFuncaoCargo": "CD 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "CGE0001",
+    "descricaoFuncaoCargo": "CGE 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "CGE0002",
+    "descricaoFuncaoCargo": "CGE 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "CGE0003",
+    "descricaoFuncaoCargo": "CGE 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "CGE0004",
+    "descricaoFuncaoCargo": "CGE 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "CTE0004",
+    "descricaoFuncaoCargo": "CTE 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "CTE0011",
+    "descricaoFuncaoCargo": "CTE 001.1"
+  },
+  {
+    "codigoFuncaoCargo": "CTE0015",
+    "descricaoFuncaoCargo": "CTE 001.5"
+  },
+  {
+    "codigoFuncaoCargo": "CTE0017",
+    "descricaoFuncaoCargo": "CTE 001.7"
+  },
+  {
+    "codigoFuncaoCargo": "CTE0019",
+    "descricaoFuncaoCargo": "CTE 001.9"
+  },
+  {
+    "codigoFuncaoCargo": "CTE0021",
+    "descricaoFuncaoCargo": "CTE 002.1"
+  },
+  {
+    "codigoFuncaoCargo": "CTE0022",
+    "descricaoFuncaoCargo": "CTE 002.2"
+  },
+  {
+    "codigoFuncaoCargo": "CTE0023",
+    "descricaoFuncaoCargo": "CTE 002.3"
+  },
+  {
+    "codigoFuncaoCargo": "DAS1011",
+    "descricaoFuncaoCargo": "DAS 101.1"
+  },
+  {
+    "codigoFuncaoCargo": "DAS1014",
+    "descricaoFuncaoCargo": "DAS 101.4"
+  },
+  {
+    "codigoFuncaoCargo": "DAS1021",
+    "descricaoFuncaoCargo": "DAS 102.1"
+  },
+  {
+    "codigoFuncaoCargo": "DAS1022",
+    "descricaoFuncaoCargo": "DAS 102.2"
+  },
+  {
+    "codigoFuncaoCargo": "EC0001",
+    "descricaoFuncaoCargo": "EC 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "EC0002",
+    "descricaoFuncaoCargo": "EC 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "EC0003",
+    "descricaoFuncaoCargo": "EC 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "EC0004",
+    "descricaoFuncaoCargo": "EC 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "EC0005",
+    "descricaoFuncaoCargo": "EC 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "ETE0001",
+    "descricaoFuncaoCargo": "ETE 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "ETE0002",
+    "descricaoFuncaoCargo": "ETE 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0002",
+    "descricaoFuncaoCargo": "FAA 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0003",
+    "descricaoFuncaoCargo": "FAA 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0004",
+    "descricaoFuncaoCargo": "FAA 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0005",
+    "descricaoFuncaoCargo": "FAA 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0006",
+    "descricaoFuncaoCargo": "FAA 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0007",
+    "descricaoFuncaoCargo": "FAA 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0008",
+    "descricaoFuncaoCargo": "FAA 000.8"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0009",
+    "descricaoFuncaoCargo": "FAA 000.9"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0013",
+    "descricaoFuncaoCargo": "FAA 001.3"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0014",
+    "descricaoFuncaoCargo": "FAA 001.4"
+  },
+  {
+    "codigoFuncaoCargo": "FAA0015",
+    "descricaoFuncaoCargo": "FAA 001.5"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFCA2",
+    "descricaoFuncaoCargo": "FBC FCA.2"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFCA3",
+    "descricaoFuncaoCargo": "FBC FCA.3"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFCA4",
+    "descricaoFuncaoCargo": "FBC FCA.4"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFDE1",
+    "descricaoFuncaoCargo": "FBC FDE.1"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFDE2",
+    "descricaoFuncaoCargo": "FBC FDE.2"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFDJ1",
+    "descricaoFuncaoCargo": "FBC FDJ.1"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFDO1",
+    "descricaoFuncaoCargo": "FBC FDO.1"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFDS1",
+    "descricaoFuncaoCargo": "FBC FDS.1"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFDT1",
+    "descricaoFuncaoCargo": "FBC FDT.1"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFST1",
+    "descricaoFuncaoCargo": "FBC FST.1"
+  },
+  {
+    "codigoFuncaoCargo": "FBCFST2",
+    "descricaoFuncaoCargo": "FBC FST.2"
+  },
+  {
+    "codigoFuncaoCargo": "FCC0005",
+    "descricaoFuncaoCargo": "FCC 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "FCC0006",
+    "descricaoFuncaoCargo": "FCC 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "FCC0010",
+    "descricaoFuncaoCargo": "FCC 001.0"
+  },
+  {
+    "codigoFuncaoCargo": "FCC0013",
+    "descricaoFuncaoCargo": "FCC 001.3"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0001",
+    "descricaoFuncaoCargo": "FCE 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0002",
+    "descricaoFuncaoCargo": "FCE 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0003",
+    "descricaoFuncaoCargo": "FCE 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0004",
+    "descricaoFuncaoCargo": "FCE 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0005",
+    "descricaoFuncaoCargo": "FCE 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0006",
+    "descricaoFuncaoCargo": "FCE 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0007",
+    "descricaoFuncaoCargo": "FCE 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0009",
+    "descricaoFuncaoCargo": "FCE 000.9"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0010",
+    "descricaoFuncaoCargo": "FCE 001.0"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0011",
+    "descricaoFuncaoCargo": "FCE 001.1"
+  },
+  {
+    "codigoFuncaoCargo": "FCE0012",
+    "descricaoFuncaoCargo": "FCE 001.2"
+  },
+  {
+    "codigoFuncaoCargo": "FCI0001",
+    "descricaoFuncaoCargo": "FCI 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "FCT0006",
+    "descricaoFuncaoCargo": "FCT 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "FEX",
+    "descricaoFuncaoCargo": "FEX "
+  },
+  {
+    "codigoFuncaoCargo": "FEX0101",
+    "descricaoFuncaoCargo": "FEX 010.1"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0102",
+    "descricaoFuncaoCargo": "FEX 010.2"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0103",
+    "descricaoFuncaoCargo": "FEX 010.3"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0104",
+    "descricaoFuncaoCargo": "FEX 010.4"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0105",
+    "descricaoFuncaoCargo": "FEX 010.5"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0106",
+    "descricaoFuncaoCargo": "FEX 010.6"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0107",
+    "descricaoFuncaoCargo": "FEX 010.7"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0108",
+    "descricaoFuncaoCargo": "FEX 010.8"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0109",
+    "descricaoFuncaoCargo": "FEX 010.9"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0110",
+    "descricaoFuncaoCargo": "FEX 011.0"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0111",
+    "descricaoFuncaoCargo": "FEX 011.1"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0112",
+    "descricaoFuncaoCargo": "FEX 011.2"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0113",
+    "descricaoFuncaoCargo": "FEX 011.3"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0114",
+    "descricaoFuncaoCargo": "FEX 011.4"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0115",
+    "descricaoFuncaoCargo": "FEX 011.5"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0116",
+    "descricaoFuncaoCargo": "FEX 011.6"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0117",
+    "descricaoFuncaoCargo": "FEX 011.7"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0201",
+    "descricaoFuncaoCargo": "FEX 020.1"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0202",
+    "descricaoFuncaoCargo": "FEX 020.2"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0203",
+    "descricaoFuncaoCargo": "FEX 020.3"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0204",
+    "descricaoFuncaoCargo": "FEX 020.4"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0205",
+    "descricaoFuncaoCargo": "FEX 020.5"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0206",
+    "descricaoFuncaoCargo": "FEX 020.6"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0207",
+    "descricaoFuncaoCargo": "FEX 020.7"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0208",
+    "descricaoFuncaoCargo": "FEX 020.8"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0209",
+    "descricaoFuncaoCargo": "FEX 020.9"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0210",
+    "descricaoFuncaoCargo": "FEX 021.0"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0211",
+    "descricaoFuncaoCargo": "FEX 021.1"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0212",
+    "descricaoFuncaoCargo": "FEX 021.2"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0213",
+    "descricaoFuncaoCargo": "FEX 021.3"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0214",
+    "descricaoFuncaoCargo": "FEX 021.4"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0215",
+    "descricaoFuncaoCargo": "FEX 021.5"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0216",
+    "descricaoFuncaoCargo": "FEX 021.6"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0217",
+    "descricaoFuncaoCargo": "FEX 021.7"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0301",
+    "descricaoFuncaoCargo": "FEX 030.1"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0302",
+    "descricaoFuncaoCargo": "FEX 030.2"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0303",
+    "descricaoFuncaoCargo": "FEX 030.3"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0304",
+    "descricaoFuncaoCargo": "FEX 030.4"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0305",
+    "descricaoFuncaoCargo": "FEX 030.5"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0306",
+    "descricaoFuncaoCargo": "FEX 030.6"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0307",
+    "descricaoFuncaoCargo": "FEX 030.7"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0308",
+    "descricaoFuncaoCargo": "FEX 030.8"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0309",
+    "descricaoFuncaoCargo": "FEX 030.9"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0310",
+    "descricaoFuncaoCargo": "FEX 031.0"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0311",
+    "descricaoFuncaoCargo": "FEX 031.1"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0312",
+    "descricaoFuncaoCargo": "FEX 031.2"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0313",
+    "descricaoFuncaoCargo": "FEX 031.3"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0314",
+    "descricaoFuncaoCargo": "FEX 031.4"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0315",
+    "descricaoFuncaoCargo": "FEX 031.5"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0316",
+    "descricaoFuncaoCargo": "FEX 031.6"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0401",
+    "descricaoFuncaoCargo": "FEX 040.1"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0402",
+    "descricaoFuncaoCargo": "FEX 040.2"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0403",
+    "descricaoFuncaoCargo": "FEX 040.3"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0404",
+    "descricaoFuncaoCargo": "FEX 040.4"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0405",
+    "descricaoFuncaoCargo": "FEX 040.5"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0406",
+    "descricaoFuncaoCargo": "FEX 040.6"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0407",
+    "descricaoFuncaoCargo": "FEX 040.7"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0408",
+    "descricaoFuncaoCargo": "FEX 040.8"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0409",
+    "descricaoFuncaoCargo": "FEX 040.9"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0410",
+    "descricaoFuncaoCargo": "FEX 041.0"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0411",
+    "descricaoFuncaoCargo": "FEX 041.1"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0412",
+    "descricaoFuncaoCargo": "FEX 041.2"
+  },
+  {
+    "codigoFuncaoCargo": "FEX0413",
+    "descricaoFuncaoCargo": "FEX 041.3"
+  },
+  {
+    "codigoFuncaoCargo": "FG",
+    "descricaoFuncaoCargo": "FUNCAO GRATIFICADA - IFES"
+  },
+  {
+    "codigoFuncaoCargo": "FG0001",
+    "descricaoFuncaoCargo": "FG 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "FG0002",
+    "descricaoFuncaoCargo": "FG 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FG0003",
+    "descricaoFuncaoCargo": "FG 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "FG0004",
+    "descricaoFuncaoCargo": "FG 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "FG0005",
+    "descricaoFuncaoCargo": "FG 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "FG0006",
+    "descricaoFuncaoCargo": "FG 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "FG0007",
+    "descricaoFuncaoCargo": "FG 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "FG0008",
+    "descricaoFuncaoCargo": "FG 000.8"
+  },
+  {
+    "codigoFuncaoCargo": "FG0009",
+    "descricaoFuncaoCargo": "FG 000.9"
+  },
+  {
+    "codigoFuncaoCargo": "FGC0001",
+    "descricaoFuncaoCargo": "FGC 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "FGC0002",
+    "descricaoFuncaoCargo": "FGC 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FGC0003",
+    "descricaoFuncaoCargo": "FGC 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "FGC0004",
+    "descricaoFuncaoCargo": "FGC 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "FGC0005",
+    "descricaoFuncaoCargo": "FGC 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "FGC0006",
+    "descricaoFuncaoCargo": "FGC 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "FGC0007",
+    "descricaoFuncaoCargo": "FGC 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "FGC0008",
+    "descricaoFuncaoCargo": "FGC 000.8"
+  },
+  {
+    "codigoFuncaoCargo": "FGD0001",
+    "descricaoFuncaoCargo": "FGD 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "FGD0002",
+    "descricaoFuncaoCargo": "FGD 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FGH0002",
+    "descricaoFuncaoCargo": "FGH 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0001",
+    "descricaoFuncaoCargo": "FGP 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0002",
+    "descricaoFuncaoCargo": "FGP 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0003",
+    "descricaoFuncaoCargo": "FGP 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0004",
+    "descricaoFuncaoCargo": "FGP 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0006",
+    "descricaoFuncaoCargo": "FGP 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0007",
+    "descricaoFuncaoCargo": "FGP 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0008",
+    "descricaoFuncaoCargo": "FGP 000.8"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0009",
+    "descricaoFuncaoCargo": "FGP 000.9"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0010",
+    "descricaoFuncaoCargo": "FGP 001.0"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0011",
+    "descricaoFuncaoCargo": "FGP 001.1"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0013",
+    "descricaoFuncaoCargo": "FGP 001.3"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0014",
+    "descricaoFuncaoCargo": "FGP 001.4"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0016",
+    "descricaoFuncaoCargo": "FGP 001.6"
+  },
+  {
+    "codigoFuncaoCargo": "FGP0017",
+    "descricaoFuncaoCargo": "FGP 001.7"
+  },
+  {
+    "codigoFuncaoCargo": "FGR0001",
+    "descricaoFuncaoCargo": "FGR 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "FGR0002",
+    "descricaoFuncaoCargo": "FGR 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FGR0003",
+    "descricaoFuncaoCargo": "FGR 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "FGS0001",
+    "descricaoFuncaoCargo": "FGS 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "FGS0002",
+    "descricaoFuncaoCargo": "FGS 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FGT0005",
+    "descricaoFuncaoCargo": "FGT 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "FGT0007",
+    "descricaoFuncaoCargo": "FGT 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "FGT0008",
+    "descricaoFuncaoCargo": "FGT 000.8"
+  },
+  {
+    "codigoFuncaoCargo": "FGT0009",
+    "descricaoFuncaoCargo": "FGT 000.9"
+  },
+  {
+    "codigoFuncaoCargo": "FGT0010",
+    "descricaoFuncaoCargo": "FGT 001.0"
+  },
+  {
+    "codigoFuncaoCargo": "FPE1011",
+    "descricaoFuncaoCargo": "FPE 101.1"
+  },
+  {
+    "codigoFuncaoCargo": "FTS0001",
+    "descricaoFuncaoCargo": "FTS 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "FTS0002",
+    "descricaoFuncaoCargo": "FTS 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "FTS0003",
+    "descricaoFuncaoCargo": "FTS 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "FTS0004",
+    "descricaoFuncaoCargo": "FTS 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "FUC0001",
+    "descricaoFuncaoCargo": "FUC 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "GF0001",
+    "descricaoFuncaoCargo": "GF 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "GF0002",
+    "descricaoFuncaoCargo": "GF 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "GF0003",
+    "descricaoFuncaoCargo": "GF 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "GF0004",
+    "descricaoFuncaoCargo": "GF 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "GF0005",
+    "descricaoFuncaoCargo": "GF 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "GF0006",
+    "descricaoFuncaoCargo": "GF 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "GF0007",
+    "descricaoFuncaoCargo": "GF 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "GF0008",
+    "descricaoFuncaoCargo": "GF 000.8"
+  },
+  {
+    "codigoFuncaoCargo": "GF0009",
+    "descricaoFuncaoCargo": "GF 000.9"
+  },
+  {
+    "codigoFuncaoCargo": "GF0010",
+    "descricaoFuncaoCargo": "GF 001.0"
+  },
+  {
+    "codigoFuncaoCargo": "GF0011",
+    "descricaoFuncaoCargo": "GF 001.1"
+  },
+  {
+    "codigoFuncaoCargo": "GF0012",
+    "descricaoFuncaoCargo": "GF 001.2"
+  },
+  {
+    "codigoFuncaoCargo": "GF0013",
+    "descricaoFuncaoCargo": "GF 001.3"
+  },
+  {
+    "codigoFuncaoCargo": "GF0014",
+    "descricaoFuncaoCargo": "GF 001.4"
+  },
+  {
+    "codigoFuncaoCargo": "GF0015",
+    "descricaoFuncaoCargo": "GF 001.5"
+  },
+  {
+    "codigoFuncaoCargo": "GF0016",
+    "descricaoFuncaoCargo": "GF 001.6"
+  },
+  {
+    "codigoFuncaoCargo": "GF0017",
+    "descricaoFuncaoCargo": "GF 001.7"
+  },
+  {
+    "codigoFuncaoCargo": "GF0020",
+    "descricaoFuncaoCargo": "GF 002.0"
+  },
+  {
+    "codigoFuncaoCargo": "GF0021",
+    "descricaoFuncaoCargo": "GF 002.1"
+  },
+  {
+    "codigoFuncaoCargo": "GF0022",
+    "descricaoFuncaoCargo": "GF 002.2"
+  },
+  {
+    "codigoFuncaoCargo": "GF0023",
+    "descricaoFuncaoCargo": "GF 002.3"
+  },
+  {
+    "codigoFuncaoCargo": "GF0024",
+    "descricaoFuncaoCargo": "GF 002.4"
+  },
+  {
+    "codigoFuncaoCargo": "GF0025",
+    "descricaoFuncaoCargo": "GF 002.5"
+  },
+  {
+    "codigoFuncaoCargo": "GF0026",
+    "descricaoFuncaoCargo": "GF 002.6"
+  },
+  {
+    "codigoFuncaoCargo": "GF0027",
+    "descricaoFuncaoCargo": "GF 002.7"
+  },
+  {
+    "codigoFuncaoCargo": "GF0028",
+    "descricaoFuncaoCargo": "GF 002.8"
+  },
+  {
+    "codigoFuncaoCargo": "GF0029",
+    "descricaoFuncaoCargo": "GF 002.9"
+  },
+  {
+    "codigoFuncaoCargo": "GF0030",
+    "descricaoFuncaoCargo": "GF 003.0"
+  },
+  {
+    "codigoFuncaoCargo": "GF0031",
+    "descricaoFuncaoCargo": "GF 003.1"
+  },
+  {
+    "codigoFuncaoCargo": "GF0032",
+    "descricaoFuncaoCargo": "GF 003.2"
+  },
+  {
+    "codigoFuncaoCargo": "GF0033",
+    "descricaoFuncaoCargo": "GF 003.3"
+  },
+  {
+    "codigoFuncaoCargo": "GF0034",
+    "descricaoFuncaoCargo": "GF 003.4"
+  },
+  {
+    "codigoFuncaoCargo": "GF0035",
+    "descricaoFuncaoCargo": "GF 003.5"
+  },
+  {
+    "codigoFuncaoCargo": "GF0036",
+    "descricaoFuncaoCargo": "GF 003.6"
+  },
+  {
+    "codigoFuncaoCargo": "GF0037",
+    "descricaoFuncaoCargo": "GF 003.7"
+  },
+  {
+    "codigoFuncaoCargo": "GF0038",
+    "descricaoFuncaoCargo": "GF 003.8"
+  },
+  {
+    "codigoFuncaoCargo": "GF0039",
+    "descricaoFuncaoCargo": "GF 003.9"
+  },
+  {
+    "codigoFuncaoCargo": "GF0040",
+    "descricaoFuncaoCargo": "GF 004.0"
+  },
+  {
+    "codigoFuncaoCargo": "GF0041",
+    "descricaoFuncaoCargo": "GF 004.1"
+  },
+  {
+    "codigoFuncaoCargo": "GF0042",
+    "descricaoFuncaoCargo": "GF 004.2"
+  },
+  {
+    "codigoFuncaoCargo": "GF0043",
+    "descricaoFuncaoCargo": "GF 004.3"
+  },
+  {
+    "codigoFuncaoCargo": "GF0044",
+    "descricaoFuncaoCargo": "GF 004.4"
+  },
+  {
+    "codigoFuncaoCargo": "GF0045",
+    "descricaoFuncaoCargo": "GF 004.5"
+  },
+  {
+    "codigoFuncaoCargo": "GF0046",
+    "descricaoFuncaoCargo": "GF 004.6"
+  },
+  {
+    "codigoFuncaoCargo": "GF0047",
+    "descricaoFuncaoCargo": "GF 004.7"
+  },
+  {
+    "codigoFuncaoCargo": "GF0048",
+    "descricaoFuncaoCargo": "GF 004.8"
+  },
+  {
+    "codigoFuncaoCargo": "GF0049",
+    "descricaoFuncaoCargo": "GF 004.9"
+  },
+  {
+    "codigoFuncaoCargo": "GF0050",
+    "descricaoFuncaoCargo": "GF 005.0"
+  },
+  {
+    "codigoFuncaoCargo": "GF0051",
+    "descricaoFuncaoCargo": "GF 005.1"
+  },
+  {
+    "codigoFuncaoCargo": "GF0052",
+    "descricaoFuncaoCargo": "GF 005.2"
+  },
+  {
+    "codigoFuncaoCargo": "GF0056",
+    "descricaoFuncaoCargo": "GF 005.6"
+  },
+  {
+    "codigoFuncaoCargo": "GF0057",
+    "descricaoFuncaoCargo": "GF 005.7"
+  },
+  {
+    "codigoFuncaoCargo": "GF0059",
+    "descricaoFuncaoCargo": "GF 005.9"
+  },
+  {
+    "codigoFuncaoCargo": "GF0061",
+    "descricaoFuncaoCargo": "GF 006.1"
+  },
+  {
+    "codigoFuncaoCargo": "GF0062",
+    "descricaoFuncaoCargo": "GF 006.2"
+  },
+  {
+    "codigoFuncaoCargo": "GF0063",
+    "descricaoFuncaoCargo": "GF 006.3"
+  },
+  {
+    "codigoFuncaoCargo": "GF0064",
+    "descricaoFuncaoCargo": "GF 006.4"
+  },
+  {
+    "codigoFuncaoCargo": "GF0065",
+    "descricaoFuncaoCargo": "GF 006.5"
+  },
+  {
+    "codigoFuncaoCargo": "GF0068",
+    "descricaoFuncaoCargo": "GF 006.8"
+  },
+  {
+    "codigoFuncaoCargo": "GF0069",
+    "descricaoFuncaoCargo": "GF 006.9"
+  },
+  {
+    "codigoFuncaoCargo": "GFC0050",
+    "descricaoFuncaoCargo": "GFC 005.0"
+  },
+  {
+    "codigoFuncaoCargo": "GFE0001",
+    "descricaoFuncaoCargo": "GFE 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "GFE0003",
+    "descricaoFuncaoCargo": "GFE 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "GFE0004",
+    "descricaoFuncaoCargo": "GFE 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "GFE0005",
+    "descricaoFuncaoCargo": "GFE 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "GFE0006",
+    "descricaoFuncaoCargo": "GFE 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "GFE0030",
+    "descricaoFuncaoCargo": "GFE 003.0"
+  },
+  {
+    "codigoFuncaoCargo": "GFE0031",
+    "descricaoFuncaoCargo": "GFE 003.1"
+  },
+  {
+    "codigoFuncaoCargo": "GNE0001",
+    "descricaoFuncaoCargo": "GNE 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "GNE0002",
+    "descricaoFuncaoCargo": "GNE 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "GNE0003",
+    "descricaoFuncaoCargo": "GNE 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "GSE0001",
+    "descricaoFuncaoCargo": "GSE 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "GTS0001",
+    "descricaoFuncaoCargo": "GTS 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "GTS0002",
+    "descricaoFuncaoCargo": "GTS 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "GTS0003",
+    "descricaoFuncaoCargo": "GTS 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "NES0005",
+    "descricaoFuncaoCargo": "NES 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0001",
+    "descricaoFuncaoCargo": "PCC 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0002",
+    "descricaoFuncaoCargo": "PCC 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0003",
+    "descricaoFuncaoCargo": "PCC 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0004",
+    "descricaoFuncaoCargo": "PCC 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0005",
+    "descricaoFuncaoCargo": "PCC 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0006",
+    "descricaoFuncaoCargo": "PCC 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0007",
+    "descricaoFuncaoCargo": "PCC 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0008",
+    "descricaoFuncaoCargo": "PCC 000.8"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0009",
+    "descricaoFuncaoCargo": "PCC 000.9"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0010",
+    "descricaoFuncaoCargo": "PCC 001.0"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0011",
+    "descricaoFuncaoCargo": "PCC 001.1"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0012",
+    "descricaoFuncaoCargo": "PCC 001.2"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0013",
+    "descricaoFuncaoCargo": "PCC 001.3"
+  },
+  {
+    "codigoFuncaoCargo": "PCC0014",
+    "descricaoFuncaoCargo": "PCC 001.4"
+  },
+  {
+    "codigoFuncaoCargo": "PFC",
+    "descricaoFuncaoCargo": "PFC "
+  },
+  {
+    "codigoFuncaoCargo": "PFC0001",
+    "descricaoFuncaoCargo": "PFC 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0004",
+    "descricaoFuncaoCargo": "PFC 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0005",
+    "descricaoFuncaoCargo": "PFC 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0006",
+    "descricaoFuncaoCargo": "PFC 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0007",
+    "descricaoFuncaoCargo": "PFC 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0010",
+    "descricaoFuncaoCargo": "PFC 001.0"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0011",
+    "descricaoFuncaoCargo": "PFC 001.1"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0012",
+    "descricaoFuncaoCargo": "PFC 001.2"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0013",
+    "descricaoFuncaoCargo": "PFC 001.3"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0014",
+    "descricaoFuncaoCargo": "PFC 001.4"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0015",
+    "descricaoFuncaoCargo": "PFC 001.5"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0016",
+    "descricaoFuncaoCargo": "PFC 001.6"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0017",
+    "descricaoFuncaoCargo": "PFC 001.7"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0018",
+    "descricaoFuncaoCargo": "PFC 001.8"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0019",
+    "descricaoFuncaoCargo": "PFC 001.9"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0020",
+    "descricaoFuncaoCargo": "PFC 002.0"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0021",
+    "descricaoFuncaoCargo": "PFC 002.1"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0022",
+    "descricaoFuncaoCargo": "PFC 002.2"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0023",
+    "descricaoFuncaoCargo": "PFC 002.3"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0024",
+    "descricaoFuncaoCargo": "PFC 002.4"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0026",
+    "descricaoFuncaoCargo": "PFC 002.6"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0027",
+    "descricaoFuncaoCargo": "PFC 002.7"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0028",
+    "descricaoFuncaoCargo": "PFC 002.8"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0029",
+    "descricaoFuncaoCargo": "PFC 002.9"
+  },
+  {
+    "codigoFuncaoCargo": "PFC0033",
+    "descricaoFuncaoCargo": "PFC 003.3"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0001",
+    "descricaoFuncaoCargo": "PFG 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0002",
+    "descricaoFuncaoCargo": "PFG 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0003",
+    "descricaoFuncaoCargo": "PFG 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0004",
+    "descricaoFuncaoCargo": "PFG 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0005",
+    "descricaoFuncaoCargo": "PFG 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0006",
+    "descricaoFuncaoCargo": "PFG 000.6"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0007",
+    "descricaoFuncaoCargo": "PFG 000.7"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0008",
+    "descricaoFuncaoCargo": "PFG 000.8"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0009",
+    "descricaoFuncaoCargo": "PFG 000.9"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0010",
+    "descricaoFuncaoCargo": "PFG 001.0"
+  },
+  {
+    "codigoFuncaoCargo": "PFG0011",
+    "descricaoFuncaoCargo": "PFG 001.1"
+  },
+  {
+    "codigoFuncaoCargo": "RGA0001",
+    "descricaoFuncaoCargo": "RGA 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "RGA0002",
+    "descricaoFuncaoCargo": "RGA 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "RGA0003",
+    "descricaoFuncaoCargo": "RGA 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "RGA0004",
+    "descricaoFuncaoCargo": "RGA 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "RGA0005",
+    "descricaoFuncaoCargo": "RGA 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "RMA0001",
+    "descricaoFuncaoCargo": "RMA 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "RMA0002",
+    "descricaoFuncaoCargo": "RMA 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "RMA0003",
+    "descricaoFuncaoCargo": "RMA 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "RMA0004",
+    "descricaoFuncaoCargo": "RMA 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "RMA0005",
+    "descricaoFuncaoCargo": "RMA 000.5"
+  },
+  {
+    "codigoFuncaoCargo": "RMP0001",
+    "descricaoFuncaoCargo": "RMP 000.1"
+  },
+  {
+    "codigoFuncaoCargo": "RMP0002",
+    "descricaoFuncaoCargo": "RMP 000.2"
+  },
+  {
+    "codigoFuncaoCargo": "RMP0003",
+    "descricaoFuncaoCargo": "RMP 000.3"
+  },
+  {
+    "codigoFuncaoCargo": "RMP0004",
+    "descricaoFuncaoCargo": "RMP 000.4"
+  },
+  {
+    "codigoFuncaoCargo": "RMP0005",
+    "descricaoFuncaoCargo": "RMP 000.5"
+  }
+]
