@@ -1,0 +1,266 @@
+{
+    "AGENTE ADMINISTRATIVO": {
+        "201301": {
+            "SIII": 2,
+            "total": 2
+        },
+        "202410": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "ANALISTA CENSITARIO - NS - LEI 8745-93": {
+        "201301": {
+            "A": 21,
+            "total": 21
+        },
+        "202410": {
+            "A": 291,
+            "total": 291
+        }
+    },
+    "ANALISTA PLAN GEST INF INFOR GEOG ESTATI": {
+        "201301": {
+            "AI": 152,
+            "AII": 3,
+            "AIII": 233,
+            "BI": 1,
+            "BII": 7,
+            "BIII": 17,
+            "CI": 4,
+            "CII": 39,
+            "CIII": 110,
+            "SIII": 131,
+            "total": 697
+        },
+        "202410": {
+            "BI": 1,
+            "BII": 1,
+            "BIII": 80,
+            "CI": 7,
+            "CII": 41,
+            "CIII": 59,
+            "SI": 124,
+            "SII": 6,
+            "SIII": 265,
+            "total": 584
+        }
+    },
+    "ARTIF DE ARTES GRAFICAS": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "ARTIFICE": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        },
+        "202410": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "AUX DE SERVICOS DIVERSOS": {
+        "201301": {
+            "CII": 1,
+            "total": 1
+        },
+        "202410": {
+            "CII": 1,
+            "total": 1
+        }
+    },
+    "AUX DE SERVICOS GERAIS": {
+        "201301": {
+            "SIII": 4,
+            "total": 4
+        },
+        "202410": {
+            "SIII": 2,
+            "total": 2
+        }
+    },
+    "BIBLIOTECARIO": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "CONTADOR": {
+        "201301": {
+            "SII": 1,
+            "total": 1
+        }
+    },
+    "CONTRATADO LEI 8745-93 - NI": {
+        "201301": {
+            "A": 4147,
+            "total": 4147
+        },
+        "202410": {
+            "A": 6431,
+            "total": 6431
+        }
+    },
+    "DATILOGRAFO": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        },
+        "202410": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "DENTISTA": {
+        "201301": {
+            "SIII": 3,
+            "total": 3
+        }
+    },
+    "DESENHISTA": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        },
+        "202410": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "ENGENHEIRO AGRONOMO": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        },
+        "202410": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "ENGENHEIRO CIVIL": {
+        "201301": {
+            "SII": 1,
+            "total": 1
+        },
+        "202410": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "GEOLOGO": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "MEDICO": {
+        "201301": {
+            "SIII": 6,
+            "total": 6
+        }
+    },
+    "OPERADOR DE COMPUTACAO": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "PESQ EM INFORMACOES GEOGRAFICAS": {
+        "201301": {
+            "AIII": 13,
+            "BI": 3,
+            "CIII": 3,
+            "SI": 3,
+            "SII": 5,
+            "SIII": 76,
+            "total": 103
+        },
+        "202410": {
+            "AIII": 6,
+            "BI": 1,
+            "CIII": 2,
+            "SI": 3,
+            "SII": 17,
+            "SIII": 20,
+            "total": 49
+        }
+    },
+    "PROGRAMADOR": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "TEC INFOR GEOGRAFICAS E ESTATISTICA": {
+        "201301": {
+            "AII": 3,
+            "BI": 457,
+            "BIII": 1,
+            "SI": 22,
+            "SII": 20,
+            "SIII": 2970,
+            "total": 3473
+        },
+        "202410": {
+            "AIII": 1,
+            "BI": 35,
+            "BII": 339,
+            "BIII": 161,
+            "SI": 2,
+            "SII": 6,
+            "SIII": 1172,
+            "total": 1716
+        }
+    },
+    "TEC PLAN GEST INF INFOR GEOG ESTATIS": {
+        "201301": {
+            "BIII": 1,
+            "SI": 19,
+            "SII": 38,
+            "SIII": 823,
+            "total": 881
+        },
+        "202410": {
+            "SI": 1,
+            "SII": 3,
+            "SIII": 213,
+            "total": 217
+        }
+    },
+    "TECNICO CONTABILIDADE": {
+        "201301": {
+            "SIII": 1,
+            "total": 1
+        }
+    },
+    "TECNOL INF GEOGRAFICA ESTATISTICA": {
+        "201301": {
+            "AI": 39,
+            "AII": 6,
+            "AIII": 61,
+            "BI": 2,
+            "BII": 13,
+            "BIII": 60,
+            "CI": 24,
+            "CII": 46,
+            "CIII": 123,
+            "SI": 7,
+            "SII": 15,
+            "SIII": 453,
+            "total": 849
+        },
+        "202410": {
+            "BI": 2,
+            "BIII": 40,
+            "CII": 22,
+            "CIII": 42,
+            "SI": 33,
+            "SII": 9,
+            "SIII": 437,
+            "total": 585
+        }
+    }
+}

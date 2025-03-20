@@ -1,7 +1,7 @@
 import requests, json
 from pathlib import Path
 
-def recuperar_csv(url):
+def recuperar_csv(url, info):
     headers = {"chave-api-dados":"3a43ad38c90b4b8e3ba861973ed9f6ad"}
     
     pag=1; response = []; ok = True
